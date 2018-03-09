@@ -1,6 +1,8 @@
-# React component boilerplate
+# React-Terminal-UI
 
-This is a simple boilerplate project for building a react component package for npm. It is suitable for building any type of UI component or library (like for example a dropdown menu or a toggle-switch). The project contains a correctly transpiled folder for the component library (easy to get wrong) as well as a demo page for showcasing it. The demo can easily be uploaded to _GitHub Pages_. This boilerplate project is meant to be minimal and easy to understand. Linting, testing, prettier etc have been purposefully left out. It does not include a UMD build, as those aren't really used anymore.
+Coming soon
+
+<!-- This is a simple boilerplate project for building a react component package for npm. It is suitable for building any type of UI component or library (like for example a dropdown menu or a toggle-switch). The project contains a correctly transpiled folder for the component library (easy to get wrong) as well as a demo page for showcasing it. The demo can easily be uploaded to _GitHub Pages_. This boilerplate project is meant to be minimal and easy to understand. Linting, testing, prettier etc have been purposefully left out. It does not include a UMD build, as those aren't really used anymore.
 
 If you are new to building React components for npm you should check out [this guide](https://medium.com/@markus.s.englund/a-guide-to-building-a-react-component-for-npm-68f03b314753).
 
@@ -47,3 +49,4 @@ Host demo on GitHub Pages:
 * Commit your changes to git and push to your GitHub repository.
 * On your GitHub repo page, click the **settings** tab and scroll down to the **GitHub Pages** heading. Pick `master branch /docs folder` in the **source** dropdown, And BOOM, your demo page is already live on the internet for free.
 * Note: Sometimes it might take about an hour for the page to actually start hosting. Adding /index.html after the url works instantly for whatever reason.
+ -->
